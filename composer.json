@@ -1,0 +1,14 @@
+{
+    "name": "iocod/greeting",
+    "description": "greeting the user by name",
+    "authors": [{
+        "name": "rahees",
+        "email": "rahees@iocod.com"
+    }],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Iocod\\Greeting\\": "src/"
+        }
+    }
+}
